@@ -18,7 +18,7 @@
 <h2 align="center">
     👩🏻‍💻 My name is Kristy!
 </h2>
-I am a front-end software engineer from Denver, CO. Prior to making the switch to software engineering, I worked in the healthcare and biological sciences fields. I have now taken my analytical talents, critical thinking capabilities, and emapthetic communcation skills to thrive in challenging and creative tech environments while developing software with great UX/UI in mind. 
+I am a front-end software engineer from Denver, CO. Prior to making the switch to software engineering, I worked in the healthcare and biological sciences fields. I have now taken my analytical talents, critical thinking capabilities, and emapthetic communcation skills to thrive in challenging and creative tech environments while developing software with great UX/UI in mind. In my spare time, you can find me spending time with family and friends and trying out all the milk tea and coffee Denver has to offer.
  <div align="center">
     <p><b>Please reach me at:</b></p>
      <a href="https://www.linkedin.com/in/kristypnguyen/">
