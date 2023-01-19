@@ -6,14 +6,14 @@
   <img src="https://media.giphy.com/media/UTpvk3BhUmOU7miizN/giphy.gif" alt="letter K GIF" width="100"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=kpn678&show_icons=true&theme=dracula&hide_border=true" alt="Github stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpn678&layout=compact&theme=dracula&hide_border=true" alt="languages"/>
   </a>
-</div>
+</div> -->
 
 <h2 align="center">
     👩🏻‍💻 My name is Kristy!
